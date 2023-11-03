@@ -1,4 +1,4 @@
-https://springboard-twitterclone-warbler.onrender.com
+https://twitterclone-warbler2.onrender.com
    
 Setup
 Create the Python virtual environment:
